@@ -20,5 +20,5 @@ Steps to run
 <server>
       <id>registry.hub.docker.com</id>
       <username>kctiraj44</username>
-      <password>Myheart150*</password>
+      <password>M</password>
     </server>
